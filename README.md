@@ -1,4 +1,4 @@
-# <p align=center> `Tic-Tac-Toe` :
+# <p align=center background-color='none'> `Tic-Tac-Toe` :
 ## <p align=center>Python Structure 2022</p>
 
 
